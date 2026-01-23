@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Books on Tyler Webb.</title>
     <link>https://tylerwebb.io/categories/books/</link>
     <description>Recent content in Books on Tyler Webb.</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Tyler Webb.</title>
+      <url>https://tylerwebb.io/images/papermod-cover.png</url>
+      <link>https://tylerwebb.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Jul 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tylerwebb.io/categories/books/index.xml" rel="self" type="application/rss+xml" />
@@ -20,21 +25,27 @@
       <link>https://tylerwebb.io/posts/tools_and_weapons_part_3_connecting_the_world-copy/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://tylerwebb.io/posts/tools_and_weapons_part_3_connecting_the_world-copy/</guid>
-      <description>&lt;h1 id=&#34;rural-broadband-the-electricity-of-the-twenty-first-century&#34;&gt;Rural Broadband: The Electricity of the Twenty-First Century&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Electricity is truly one of humanity&amp;rsquo;s most impactful and profound discoveries. We&amp;rsquo;ve successfully harnessed electrons to rid our world of darkness at a moment&amp;rsquo;s notice, communicate with other people over large distances, drive our cars, restart human hearts, and so much more. The harnessing of electricity has been an innovation that has seen no bounds. It has wove itself into the very fabric of humanity and had drastic effects that one no could have possibly predicted.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;rural-broadband-the-electricity-of-the-twenty-first-century&#34;&gt;Rural Broadband: The Electricity of the Twenty-First Century&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Electricity is truly one of humanity&amp;rsquo;s most impactful and profound discoveries. We&amp;rsquo;ve successfully harnessed electrons to rid our world of darkness at a moment&amp;rsquo;s notice, communicate with other people over large distances, drive our cars, restart human hearts, and so much more. The harnessing of electricity has been an innovation that has seen no bounds. It has wove itself into the very fabric of humanity and had drastic effects that one no could have possibly predicted.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tools and Weapons Review Part 2: Cybersecurity - The Wake-Up Call for the World</title>
       <link>https://tylerwebb.io/posts/tools_and_weapons_part_2_cybersecurity-copy/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://tylerwebb.io/posts/tools_and_weapons_part_2_cybersecurity-copy/</guid>
-      <description>&lt;h1 id=&#34;cyber-security-the-wake-up-call-for-the-world&#34;&gt;Cyber Security: The Wake-up Call for the World&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Humans love shortcuts. We love finding better, easier, and quicker ways of doing things. This has allowed us to innovate and automate away many of the mundane parts of life. It also has allowed us to progress the general standard of living exponentially.&lt;/p&gt;&#xA;&lt;p&gt;This shortcut nature usually proves us well. We&amp;rsquo;re scrappy, we&amp;rsquo;re creative, and we know how to handle hard things. However, a critical ingredient to healthy progression is ethical direction. When Ethics are lacking, individuals and groups tend to look for shortcuts that bypass important issues such as human rights and ownership.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;cyber-security-the-wake-up-call-for-the-world&#34;&gt;Cyber Security: The Wake-up Call for the World&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Humans love shortcuts. We love finding better, easier, and quicker ways of doing things. This has allowed us to innovate and automate away many of the mundane parts of life. It also has allowed us to progress the general standard of living exponentially.&lt;/p&gt;
+&lt;p&gt;This shortcut nature usually proves us well. We&amp;rsquo;re scrappy, we&amp;rsquo;re creative, and we know how to handle hard things. However, a critical ingredient to healthy progression is ethical direction. When Ethics are lacking, individuals and groups tend to look for shortcuts that bypass important issues such as human rights and ownership.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tools and Weapons Review Part 1: A Discussion about Privacy</title>
       <link>https://tylerwebb.io/posts/tools_and_weapons_part_1_privacy/</link>
       <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://tylerwebb.io/posts/tools_and_weapons_part_1_privacy/</guid>
-      <description>&lt;p&gt;Within &lt;em&gt;Tools and Weapons&lt;/em&gt; is a treasure trove of knowledge about how to appropriately balance the exhilarating speed, agility, and enabling power of technical innovation with the important aspects of protecting human rights and working towards the benefit of society.&lt;/p&gt;&#xA;&lt;p&gt;Brad Smith comes from a background as a lawyer and general counsel of Microsoft where he has helped navigate many complex legal and ethical issues for the company and the tech sector as a whole. He has had a front row seat to complex world issues and has met and worked with leaders the world over. He has also worked hard to stay connected to the vast and unique users of not only the technology supplied by Microsoft but groups worldwide. This post is part of a series where I give some of my thoughts and takeaways from &lt;em&gt;Tools and Weapons&lt;/em&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Within &lt;em&gt;Tools and Weapons&lt;/em&gt; is a treasure trove of knowledge about how to appropriately balance the exhilarating speed, agility, and enabling power of technical innovation with the important aspects of protecting human rights and working towards the benefit of society.&lt;/p&gt;
+&lt;p&gt;Brad Smith comes from a background as a lawyer and general counsel of Microsoft where he has helped navigate many complex legal and ethical issues for the company and the tech sector as a whole. He has had a front row seat to complex world issues and has met and worked with leaders the world over. He has also worked hard to stay connected to the vast and unique users of not only the technology supplied by Microsoft but groups worldwide. This post is part of a series where I give some of my thoughts and takeaways from &lt;em&gt;Tools and Weapons&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Review of The Unicorn Project: A Novel about Developers, Digital Distribution, and Thriving in the Digital Age of Data</title>
@@ -48,7 +59,8 @@
       <link>https://tylerwebb.io/posts/phoenix_project/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://tylerwebb.io/posts/phoenix_project/</guid>
-      <description>&lt;p&gt;I recently finished reading &lt;em&gt;“The Phoenix Project”&lt;/em&gt; written by Gene Kim, Kevin Bahr, and George Spafford. This book is a must read for anyone trying to wrap their heads around the buzzword &lt;em&gt;DevOps&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The story follows a man named Bill who works for a company called Parts Unlimited (basically just insert any generic Fortune 500 here). He manages a department in his company&amp;rsquo;s IT apparatus and likes what he does. One day, without warning, he is unexpectedly promoted to Vice President of IT Operations. Long story short, Parts Unlimited is having some serious financial problems and the future success of the company rests on the rollout of a special initiative to establish an effective e-commerce presence, dubbed The Phoenix Project. Bill is tasked with the successful rollout of Phoenix, as well as putting out almost daily, technical fires.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I recently finished reading &lt;em&gt;“The Phoenix Project”&lt;/em&gt; written by Gene Kim, Kevin Bahr, and George Spafford. This book is a must read for anyone trying to wrap their heads around the buzzword &lt;em&gt;DevOps&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The story follows a man named Bill who works for a company called Parts Unlimited (basically just insert any generic Fortune 500 here). He manages a department in his company&amp;rsquo;s IT apparatus and likes what he does. One day, without warning, he is unexpectedly promoted to Vice President of IT Operations. Long story short, Parts Unlimited is having some serious financial problems and the future success of the company rests on the rollout of a special initiative to establish an effective e-commerce presence, dubbed The Phoenix Project. Bill is tasked with the successful rollout of Phoenix, as well as putting out almost daily, technical fires.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

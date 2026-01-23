@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kubernetes on Tyler Webb.</title>
     <link>https://tylerwebb.io/tags/kubernetes/</link>
     <description>Recent content in Kubernetes on Tyler Webb.</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Tyler Webb.</title>
+      <url>https://tylerwebb.io/images/papermod-cover.png</url>
+      <link>https://tylerwebb.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tylerwebb.io/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,9 @@
       <link>https://tylerwebb.io/posts/kubernetes_crash_course/kubernetes_crash_course/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://tylerwebb.io/posts/kubernetes_crash_course/kubernetes_crash_course/</guid>
-      <description>&lt;h2 id=&#34;kubernetes&#34;&gt;KUBERNETES:&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;In the quest to further abstract the technology stack and help developers deploy and scale their applications better than ever, I present to you &lt;a href=&#34;https://kubernetes.io/&#34;&gt;Kubernetes&lt;/a&gt;. Kubernetes is a leader in the technical segment of container orchestration and is designed to be run on many types of platforms and runtimes. As one of the top contributed to projects on GitHub, Kubernetes is an open-source wonder having spun off from the Borg project at Google. Kubernetes is written in &lt;a href=&#34;https://golang.org/&#34;&gt;Golang&lt;/a&gt; and is used by companies such as Capital One, eBay, and Spotify.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;kubernetes&#34;&gt;KUBERNETES:&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;In the quest to further abstract the technology stack and help developers deploy and scale their applications better than ever, I present to you &lt;a href=&#34;https://kubernetes.io/&#34;&gt;Kubernetes&lt;/a&gt;. Kubernetes is a leader in the technical segment of container orchestration and is designed to be run on many types of platforms and runtimes. As one of the top contributed to projects on GitHub, Kubernetes is an open-source wonder having spun off from the Borg project at Google. Kubernetes is written in &lt;a href=&#34;https://golang.org/&#34;&gt;Golang&lt;/a&gt; and is used by companies such as Capital One, eBay, and Spotify.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
