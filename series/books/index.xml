@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Tyler Webb.</title>
+    <link>https://tylerwebb.io/series/books/</link>
+    <description>Recent content in Books on Tyler Webb.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tylerwebb.io/series/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review of The Unicorn Project: A Novel about Developers, Digital Distribution, and Thriving in the Digital Age of Data</title>
+      <link>https://tylerwebb.io/posts/unicorn_project/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://tylerwebb.io/posts/unicorn_project/</guid>
+      <description>&lt;p&gt;The Unicorn Project is written as a quasi-sequel to the widely popular book, The Phoenix Project. This book is written in the third person (whereas the Phoenix Project is written in the first-person point of view of Bill Palmer) and follows the adventures of Maxine, a rockstar developer with years of experience pushing critical code into production. Maxine works on a team that manages some critical control systems for Parts Unlimited, a major auto part manufacturer. However, when a critical system goes down she is left holding the bag and is exiled to the all so dreaded Phoenix Project, an initiative designed to bring Parts Unlimited into the eCommerce age. She arrives there right as Bill Palmer shows up to the scene as well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Review of The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win </title>
+      <link>https://tylerwebb.io/posts/phoenix_project/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://tylerwebb.io/posts/phoenix_project/</guid>
+      <description>&lt;p&gt;I recently finished reading &lt;em&gt;“The Phoenix Project”&lt;/em&gt; written by Gene Kim, Kevin Bahr, and George Spafford. This book is a must read for anyone trying to wrap their heads around the buzzword &lt;em&gt;DevOps&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The story follows a man named Bill who works for a company called Parts Unlimited (basically just insert any generic Fortune 500 here). He manages a department in his company&amp;rsquo;s IT apparatus and likes what he does. One day, without warning, he is unexpectedly promoted to Vice President of IT Operations. Long story short, Parts Unlimited is having some serious financial problems and the future success of the company rests on the rollout of a special initiative to establish an effective e-commerce presence, dubbed The Phoenix Project. Bill is tasked with the successful rollout of Phoenix, as well as putting out almost daily, technical fires.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

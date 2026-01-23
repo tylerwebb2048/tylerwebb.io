@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence on Tyler Webb.</title>
+    <link>https://tylerwebb.io/tags/artificial-intelligence/</link>
+    <description>Recent content in Artificial Intelligence on Tyler Webb.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tylerwebb.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tools and Weapons Review Part 4: How to Prepare for a World Empowered by Artifical Intelligence</title>
+      <link>https://tylerwebb.io/posts/tools_and_weapons_part_4_artificial_intelligence-copy/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tylerwebb.io/posts/tools_and_weapons_part_4_artificial_intelligence-copy/</guid>
+      <description>&lt;p&gt;In his book, Tools and Weapons, Brad Smith lays out a series of important considerations for the continued adoption of artificial intelligence into an ever increasing amount of applications and daily uses. While artificial intelligence has historically held a rather loose definition, Brad Smith quotes Dave Heiner of Microsoft who describes AI as &amp;ldquo;a computer system that can learn from experience by discerning patterns in data fed to it and thereby make decisions&amp;rdquo; (Tools and Weapons pg. 194). This ability to learn based on experience and modeling is integral to creating flexible systems that can react to their environments in meaningful ways.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compute on Tyler Webb.</title>
+    <link>https://tylerwebb.io/tags/compute/</link>
+    <description>Recent content in Compute on Tyler Webb.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tylerwebb.io/tags/compute/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Folding at Home and Rosetta</title>
+      <link>https://tylerwebb.io/posts/folding_at_home/folding_at_home/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://tylerwebb.io/posts/folding_at_home/folding_at_home/</guid>
+      <description>&lt;p&gt;Folding at Home and Rosetta at Home are both distributed computing platforms organized and put together to provide researchers with an alternative high-compute platform. These services take advantage of crowdsourcing and dormant computing power ranging from full server environments to last decade&amp;rsquo;s netbooks.&lt;/p&gt;&#xA;&lt;p&gt;Both services work to compute the complex and diverse ways that proteins assemble themselves by folding. Proteins assume a particular shape in order to perform their various functions and interface with each other. By understanding more about the ways that proteins fold, the medical community can better understand the cause and effect of different proteins and develop better drugs and treatments for all kinds of diseases.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
